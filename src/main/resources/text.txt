@@ -1,0 +1,61 @@
+MESSAGE:Um teste apenas 01.
+MESSAGE:Um teste apenas 02.
+VALUE:10
+MESSAGE:Um teste apenas 03.
+MESSAGE:Um teste apenas 04.
+MESSAGE:Um teste apenas 05.
+VALUE:20
+VALUE:30
+MESSAGE:Um teste apenas 06.
+MESSAGE:Um teste apenas 07.
+MESSAGE:Um teste apenas 08.
+MESSAGE:Um teste apenas 09.
+MESSAGE:Um teste apenas 10.
+MESSAGE:Um teste apenas 11.
+VALUE:40
+VALUE:50
+VALUE:60
+MESSAGE:Um teste apenas 12.
+VALUE:70
+MESSAGE:Um teste apenas 13.
+MESSAGE:Um teste apenas 14.
+VALUE:80
+MESSAGE:Um teste apenas 15.
+MESSAGE:Um teste apenas 16.
+MESSAGE:Um teste apenas 17.
+MESSAGE:Um teste apenas 18.
+VALUE:90
+VALUE:100
+MESSAGE:Um teste apenas 19.
+MESSAGE:Um teste apenas 20.
+MESSAGE:Repetindo as mensagens.
+MESSAGE:Um teste apenas 01.
+MESSAGE:Um teste apenas 02.
+VALUE:10
+MESSAGE:Um teste apenas 03.
+MESSAGE:Um teste apenas 04.
+MESSAGE:Um teste apenas 05.
+VALUE:20
+VALUE:30
+MESSAGE:Um teste apenas 06.
+MESSAGE:Um teste apenas 07.
+MESSAGE:Um teste apenas 08.
+MESSAGE:Um teste apenas 09.
+MESSAGE:Um teste apenas 10.
+MESSAGE:Um teste apenas 11.
+VALUE:40
+VALUE:50
+VALUE:60
+MESSAGE:Um teste apenas 12.
+VALUE:70
+MESSAGE:Um teste apenas 13.
+MESSAGE:Um teste apenas 14.
+VALUE:80
+MESSAGE:Um teste apenas 15.
+MESSAGE:Um teste apenas 16.
+MESSAGE:Um teste apenas 17.
+MESSAGE:Um teste apenas 18.
+VALUE:90
+VALUE:100
+MESSAGE:Um teste apenas 19.
+MESSAGE:Um teste apenas 20.
